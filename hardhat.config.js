@@ -2,7 +2,7 @@
 require('@nomicfoundation/hardhat-ethers');
 require('@nomicfoundation/hardhat-ignition-ethers');
 
-const privateKey = '735671ab6a191c43bdea2a403e92102ef998d6e531392fbbb37761c4cb867b98';
+const privateKey = '66666666666666666666666666666666';
 
 /** @type import('hardhat/config').HardhatUserConfig */
 module.exports = {
